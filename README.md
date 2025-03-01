@@ -1,4 +1,4 @@
 # TamaGo_Beta
-Schulprojekt mit Hava.
+Schulprojekt mit Java.
 
 Nicht frei nutzbar. Nicht für kommerzielle Zwecke.
